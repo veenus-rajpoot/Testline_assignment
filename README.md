@@ -100,7 +100,7 @@ This project analyzes quiz performance data to generate personalized recommendat
 
 ## Screenshots
 ### Visualization
-![Response Distribution](response_distribution.png)
+![Response Distribution](image.png)
 
 ---
 
